@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
-    background-color: pink;
+    background-color: #FF7EB4;
     box-sizing: border-box;
     font-family: 'VT323', monospace;;
     margin: 0;
@@ -30,7 +30,7 @@ nav li a {
 
 nav li {
     display: inline-block;
-    margin: auto 20px;
+    margin: auto 10px;
 }
 
 nav li a:hover {
@@ -43,11 +43,10 @@ nav li a:hover {
 
 div {
     border: 2px dashed black;
-    justify-content: center;
     padding-bottom: 10%;
     text-align: center;
     min-width: 200px;
-    max-width: 500px;
+    max-width: 600px;
     margin: 100px auto;
 }
 
