@@ -46,6 +46,8 @@ div {
     margin: 100px 400px;
     padding-bottom: 10%;
     text-align: center;
+    min-width: 200px;
+
 }
 
 div p {
